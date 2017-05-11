@@ -1,0 +1,21 @@
+{
+  "name": "webApp",
+  "homepage": "https://github.com/lengsediao/webApp",
+  "authors": [
+    "冷色调 <1752551073@qq.com>"
+  ],
+  "description": "angular",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
